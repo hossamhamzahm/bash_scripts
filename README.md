@@ -9,9 +9,9 @@
   - This script contains all my aliases
   - to make this script load automatically every time a terminal instance is opened, do the following:
    <br>
-    ```
-        # add this code to '.bashrc' file
-        if [ -f ~/.bash_aliases ]; then
-            . ~/.bash_aliases
-        fi    
-    ```
+```bash
+# add this code to '.bashrc' file
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi    
+```
